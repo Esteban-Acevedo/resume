@@ -1,0 +1,92 @@
+/* Global styles
+--------------------------*/
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align:left;
+    font-size: 12px;
+    clear: both;
+    background: white;
+    margin: 0;
+    padding: 0;
+        
+}
+.content-size{
+    width: 950px;
+    margin: auto;
+
+}
+h1, h2{
+    font-family: 'times new roman', 'times', serif;
+    font-weight: 400;
+}
+h1{
+    font-size: 5em;
+    /** border-style: solid; 
+    border-width: 3px; 
+    color: black; **/
+}
+h2{
+    font-size: 2em;
+    padding: 20px 0px 10px;
+}
+h3 {
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+}
+h4{
+    font-style: italic;
+    padding: 0px;
+    margin: 0px 0px 6px;
+}
+/* Properties Link */
+
+div p{
+    margin:auto;
+}
+a {
+    color: #EF233C;
+    
+}
+a:hover{
+    text-decoration: none;
+}
+.float-left{
+    float:left;
+}
+
+img {
+    margin: 0px 30px 0px 0px;
+}
+
+/* Header and Footer styles
+_____________________________*/
+header{
+    text-align:left;
+    padding: 100px 0px 200px 0px;
+    outline: black 4px;
+    margin: 0px auto;
+}
+.background-image{
+   /* margin: 0px auto; */
+    background: url("Forest.jpg");
+    margin: 0px;
+   
+}
+h2{
+    clear:both;
+}
+/*header h1 {
+    color:black;
+    margin: 40px 0px 10px;
+    background-color: aqua; */
+    
+    
+ 
+}
+header p{
+    line-height: 100%;
+    font-family: 'Times New Roman', 'times', 'serif';
+    padding:2px ;
+    
+}
+/* Work experiece and Education */
